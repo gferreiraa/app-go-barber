@@ -6,7 +6,7 @@
   "repository": "https://github.com/gferreiraa/app-go-barber.git",
   "author": "Getulio Rafael Ferreira <gferreiraa@gmail.com>",
   "license": "MIT",
-  "script": {
+  "scripts": {
     "start": "nodemon src/index.js"
   },
   "dependencies": {
